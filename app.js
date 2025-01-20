@@ -1,9 +1,3 @@
-header {
-   background: #35424a;
-   color: #ffffff;
-   padding: 20px 0;
-   text-align: center;
-}
 function checkFortune() {
     const zodiac = document.getElementById("zodiac-select").value;
     const bloodType = document.getElementById("blood-select").value;
